@@ -193,6 +193,14 @@ DIFFICULTY_PRESETS: Dict[str, Dict[str, Any]] = {
         "structured_interference_ratio": [0.20, 0.32],# 强干扰
         "emitter_count": [5, 5],
     },
+    "difficult": {
+        "snr_bias_db": [-8.0,-52.0],              # 信噪比极低（信号模糊）
+        "time_sync_toa_error_ns": [60.0, 70.0],
+        "receiver_miss_probability": [0.20, 0.28],# 信号易丢失
+        "burst_loss_strength": [0.20, 0.30],
+        "structured_interference_ratio": [0.30, 0.38],# 强干扰
+        "emitter_count": [6, 6],
+    },
 }
 
 
