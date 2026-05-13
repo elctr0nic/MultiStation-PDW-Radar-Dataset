@@ -1,6 +1,4 @@
-# MultiStation-PDW 雷达数据集（中文说明）
-
-项目名（推荐）：MultiStation-PDW-Radar-Dataset
+# MultiStation-PDW 雷达数据集
 
 简介
 - 本项目用于生成与可视化多站（multi-station）雷达脉冲描述词（PDW）模拟数据集，方便研究、算法开发与复现。

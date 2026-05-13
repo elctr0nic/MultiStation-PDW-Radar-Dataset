@@ -1,6 +1,4 @@
-# MultiStation-PDW Radar Dataset (English)
-
-Recommended repository name: MultiStation-PDW-Radar-Dataset
+# MultiStation-PDW Radar Dataset
 
 Overview
 - A toolkit to generate and visualize multi-station PDW (pulse descriptor word) radar simulation datasets for research and algorithm development.
